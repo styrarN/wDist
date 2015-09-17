@@ -89,4 +89,5 @@ public class ClosestWords {
 
   List<String> getClosestWords() {
     return closestWords;
-  }
+    }
+    }
